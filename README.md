@@ -1,2 +1,2 @@
 # Pinguibo_Hu
-Hungarian translationf of Pinguino IDE
+Hungarian translation of Pinguino IDE
